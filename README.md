@@ -1,2 +1,4 @@
 # hello-world
-Learning to fly
+Learning to walk
+A baby in GIT
+A brand new day ;-)
